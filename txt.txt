@@ -1,0 +1,6 @@
+npm i -D browser-sync gulp gulp-autoprefixer gulp-jade gulp-minify-css gulp-plumber gulp-sourcemaps gulp-stylus require-dir gulp-rigger gulp-uglify rimraf imagemin-pngquant gulp-imagemin
+
+npm i -S normalize.css jquery
+
+gulp clean  |    for remove ./build
+gulp build  | 
