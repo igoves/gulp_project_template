@@ -1,6 +1,6 @@
 # gulp_project_template
-Simple Gulp project template with LiveReload
-(Jade or HTML + gulp-rigger, Stylus, JS + gulp-rigger) 
+Simple Gulp project template with separated gulp tasks
+(Jade or HTML + gulp-rigger, Stylus, JS + gulp-rigger, BrowserSync and LiveReload) 
 
 ### Quick Start:
 ```sh
